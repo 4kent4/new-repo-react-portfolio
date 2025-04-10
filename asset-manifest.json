@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new-repo-react-portfolio/static/css/main.21a28524.css",
+    "main.js": "/new-repo-react-portfolio/static/js/main.8bb3e2d4.js",
+    "static/media/resume.pdf": "/new-repo-react-portfolio/static/media/resume.cac33724708169880185.pdf",
+    "static/media/react-logo.png": "/new-repo-react-portfolio/static/media/react-logo.9911848e6c15b84c4b0c.png",
+    "static/media/vite-logo.png": "/new-repo-react-portfolio/static/media/vite-logo.527f4a8a6544ef5a8765.png",
+    "index.html": "/new-repo-react-portfolio/index.html",
+    "main.21a28524.css.map": "/new-repo-react-portfolio/static/css/main.21a28524.css.map",
+    "main.8bb3e2d4.js.map": "/new-repo-react-portfolio/static/js/main.8bb3e2d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a28524.css",
+    "static/js/main.8bb3e2d4.js"
+  ]
+}
